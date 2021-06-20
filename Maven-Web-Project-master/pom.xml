@@ -6,7 +6,7 @@
   <groupId>com.venkatchellu</groupId>
   <artifactId>Maven-Project</artifactId>
   <packaging>war</packaging>
-  <version>4.0-SNAPSHOT</version>
+  <version>5.0-SNAPSHOT</version>
   <name>Maven 1st project</name>
   <description>Maven Web Project for Java Project</description>
 
